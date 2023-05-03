@@ -9,6 +9,9 @@ Esse banco deseja modernizar suas operações e para isso escolheu a linguagem P
 2.  Saque.
 3.  Extrato.
 
+Ao final, quando escolher a opção de extrato, sera salvo um arquivo file com nome
+que o usuario escolher e ficara salvo todas as transações e ações realizadas
+
 ## Como funciona
 
 ### Operação de Depósito
@@ -23,6 +26,8 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 Os valores devem ser exibidos utilizando o formatado R$ xxx:xx,
 Exemplo:
 1500.45 = R$ 1500.45
+
+
 
 ## Contribuição
 
