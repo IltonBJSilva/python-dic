@@ -1,0 +1,7 @@
+a, b = 0, 2
+
+while b < 20:
+
+    a, b = b, a+b+1
+
+    print(b)
